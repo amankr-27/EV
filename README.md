@@ -1,5 +1,7 @@
 # ⚡ Electric Vehicle (EV) Data Analysis Dashboard
-This interactive Tableau dashboard offers a comprehensive overview of electric vehicle adoption trends across the United States. It provides key insights into vehicle types, makes, models, eligibility status, and geographic distribution. Highlights include:
+This interactive Tableau dashboard offers a comprehensive overview of electric vehicle adoption trends across the United States. It provides key insights into vehicle types, makes, models, eligibility status, and geographic distribution.
+
+# Highlights include:
 
 Filters: Easily slice the data using filters for CAFV Eligibility, EV Type, Model, and State.
 
